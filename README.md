@@ -1,2 +1,2 @@
 # NSUSeniorProject
-Implementation of Machine Learning in Life or Death/Emergency Situations Guy/Onexi/James
+Implementation of Machine Learning in Emergency Situations Guy/Onexi/James
